@@ -1,7 +1,7 @@
 ﻿Function Vomit-Rainbow {
     param(
         $StringVal="BLAH",
-        $Seizure
+        [switch]$Seizure
     )
 
     if($Seizure) {
