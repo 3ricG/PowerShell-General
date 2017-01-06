@@ -1,7 +1,7 @@
 ﻿function Get-Paccy {
 
     $count = 0
-    $colors = @('yellow','white','red','green','lightblue','magenta','cyan')
+    $colors = @('yellow','white','red','green','blue','magenta','cyan')
     $pacarray = @(
     "              ","               ","              ","              ","              ","              ","              ",
     "    ▄███████▄ ","               ","  ▄██████▄    ","  ▄██████▄    ","  ▄██████▄    ","  ▄██████▄    ","  ▄██████▄    ",
